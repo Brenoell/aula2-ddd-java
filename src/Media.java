@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Média {
+public class Media {
     public static void main(String[] args) {
         double n1, n2;
         double result;
