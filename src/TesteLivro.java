@@ -5,6 +5,8 @@ public class TesteLivro {
         meuLivro.titulo = "Harry Potter";
         meuLivro.autor = "J. K. Howling";
         meuLivro.editora = "ditora";
-
+        System.out.println(meuLivro);
+        Livro favorito = new Livro();
+        System.out.println(favorito);
     }
 }
